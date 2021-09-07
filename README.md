@@ -68,7 +68,7 @@
 
 ![페이지 아이디어 영상](https://user-images.githubusercontent.com/88194064/131795312-eb7fbc32-ecde-46d3-8af6-444eec72b277.gif)
 
-영상 두번째 컷은 transition O
+영상 두번째 컷은 transition 사용 O
 
 2. 마우스오버시 노래 재생
 
